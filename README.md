@@ -12,7 +12,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=MALKA-ANJUM&show_icons=true&title_color=00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALKA-ANJUM&hide=javascript,html)](https://github.com/MALKA-ANJUM/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALKA-ANJUM)](https://github.com/MALKA-ANJUM/github-readme-stats">
 <p align="center">
 Visitors count<br>
 <img src="https://profile-counter.glitch.me/MALKA-ANJUM/count.svg" />
