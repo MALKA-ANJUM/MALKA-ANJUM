@@ -5,9 +5,8 @@
 
 
 - 😄 Pronouns: Her/she
-- 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently React Native.
-- 👯 I’m looking to collaborate on React Native Projects.
+- 🌱 I’m currently working on ReactJS.
+- 👯 I’m looking to collaborate on MERN Projects.
 - 📫 How to reach me: malkaanjum1999@gmail.com, https://www.linkedin.com/in/malka-anjum-419587157/
 
 
