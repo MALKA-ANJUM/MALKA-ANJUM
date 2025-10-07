@@ -15,6 +15,5 @@
 <p align="center">
 Visitors count<br>
 <img src="https://profile-counter.glitch.me/MALKA-ANJUM/count.svg" />
-<img src="https://komarev.com/ghpvc/?username=MALKA-ANJUM&color=blue" alt="Profile views" />
 </p>
 
