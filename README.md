@@ -9,9 +9,9 @@
 
 ### 👩‍💻 About Me
 - 😄 **Pronouns:** She/Her  
-- 💼 **Current Focus:** Developing full-stack applications with **Laravel** and **ReactJS**  
-- 🌱 **Currently Learning:** **React Native** and **advanced API integration**  
-- 👯 **Looking to Collaborate On:** MERN or Laravel-based projects  
+- 💼 **Current Focus:** Building dynamic web apps using **Laravel + Livewire** and **ReactJS**  
+- 🌱 **Currently Learning:** **React Native** and **API integrations**  
+- 👯 **Looking to Collaborate On:** MERN & Laravel-based full-stack projects  
 - 📫 **Reach Me At:**  
   📧 [malkaanjum1999@gmail.com](mailto:malkaanjum1999@gmail.com)  
   🔗 [LinkedIn](https://www.linkedin.com/in/malka-anjum-419587157/)  
@@ -19,27 +19,8 @@
 ---
 
 ### 🛠️ Tech Stack
-
-#### 💻 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" />
-</p>
-
-#### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
-</p>
-
-#### 🗄️ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-#### 🧩 Other Tools & Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  <br>
-  🧠 Livewire • RESTful APIs • AJAX • JSON • API Integration • DOM Manipulation • Excel Export
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,laravel,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -53,11 +34,10 @@
 ---
 
 ### 🚀 Projects & Work
-- 🏗️ **[Rent Agreement Platform](https://loan.demo.unidrim.com/)** — Online rent agreement generator built with Laravel & AJAX  
-- 🛒 **[Jhanvi E-commerce](https://ecom.jhanvi.net/)** — Responsive store with secure checkout & admin dashboard  
-- 💼 **[Army Club](https://dsomimhow.org/)** — Member & staff management portal  
-- 💻 **[LoadLead](https://lendor.ng/)** — Lead management and loan application system  
-- 🌐 **[Nitashh](https://one.nitashh.net/)** — Personal portfolio website with responsive UI  
+- 🏗️ **[Rent Agreement Platform](https://loan.demo.unidrim.com/)** — Smart online rent agreement system built with Laravel  
+- 🛒 **[Jhanvi E-commerce](https://ecom.jhanvi.net/)** — Responsive store with secure checkout & product management  
+- 💼 **[Army Club](https://dsomimhow.org/)** — Custom membership & staff management system  
+- 💻 **[LoadLead](https://lendor.ng/)** — Lead generation & loan platform with role-based access control  
 
 ---
 
