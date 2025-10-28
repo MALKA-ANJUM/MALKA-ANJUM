@@ -7,8 +7,7 @@
 
 ---
 
-### 👩‍💻 About Me
-- 😄 **Pronouns:** She/Her  
+### 👩‍💻 About Me 
 - 💼 **Current Focus:** Building dynamic web apps using **Laravel ReactJS**    
 - 👯 **Looking to Collaborate On:** MERN & Laravel-based full-stack projects  
 - 📫 **Reach Me At:**  
