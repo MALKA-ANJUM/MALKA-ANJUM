@@ -46,4 +46,4 @@
 
 ---
 
-⭐️ **"Code with logic, design with heart."**
+⭐️ From Malka Anjum.
