@@ -24,16 +24,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MALKA-ANJUM&show_icons=true&theme=dark"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MALKA-ANJUM&layout=compact&theme=dark"
-    width="48%"
-  />
-</p>
+![Followers](https://img.shields.io/github/followers/MALKA-ANJUM?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MALKA-ANJUM?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Check-blue?style=for-the-badge&logo=github)
 
 ---
 
