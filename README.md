@@ -26,11 +26,11 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MALKA-ANJUM&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MALKA-ANJUM&show_icons=true&theme=dark"
     width="48%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALKA-ANJUM&layout=compact&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MALKA-ANJUM&layout=compact&theme=dark"
     width="48%"
   />
 </p>
