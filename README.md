@@ -25,8 +25,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MALKA-ANJUM&show_icons=true&title_color=00ff00&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALKA-ANJUM&layout=compact&bg_color=151515&text_color=daf7dc&title_color=00ff00" alt="Top Languages" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MALKA-ANJUM&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALKA-ANJUM&layout=compact&theme=tokyonight&cache_seconds=1800"
+    width="48%"
+  />
 </p>
 
 ---
