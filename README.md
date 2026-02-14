@@ -35,7 +35,8 @@
 - 🏗️ **[Rent Agreement Platform](https://loan.demo.unidrim.com/)** — Smart online rent agreement system built with Laravel  
 - 🛒 **[Jhanvi E-commerce](https://ecom.jhanvi.net/)** — Responsive store with secure checkout & product management  
 - 💼 **[Army Club](https://dsomimhow.org/)** — Custom membership & staff management system  
-- 💻 **[LoadLead](https://lendor.ng/)** — Lead generation & loan platform with role-based access control  
+- 💻 **[LoadLead](https://lendor.ng/)** — Lead generation & loan platform with role-based access control
+- ✍️ **[HybridScribe(https://hybridscribe.com/)]** — AI-powered transcription & content workflow platform with multi-role access
 
 ---
 
