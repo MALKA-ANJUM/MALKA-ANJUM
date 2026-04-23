@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me 
 - 💼 **Current Focus:** Building dynamic web apps using **Laravel & ReactJS**    
-- 👯 **Looking to Collaborate On:** MERN & Laravel-based full-stack projects  
+- 👯 **Looking to Collaborate On:** React & Laravel-based full-stack projects  
 - 📫 **Reach Me At:**  
   📧 [malkaanjum1999@gmail.com](mailto:malkaanjum1999@gmail.com)  
   🔗 [LinkedIn](https://www.linkedin.com/in/malka-anjum-419587157/)  
