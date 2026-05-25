@@ -1,11 +1,5 @@
-@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
-
-*{
-	margin: 0;
-	padding: 0;
-	font-family: "Saira", sans-serif;
-}
+@import "tailwindcss";
 
 @theme {
 	--color-dark-100: #1a1a1a;
@@ -15,6 +9,12 @@
 	--color-purple: #8B5CF6;
 	--color-pink: #EC4899;
 	--color-blue: #3B82F6;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Saira", sans-serif;
 }
 
 .typewriter {
